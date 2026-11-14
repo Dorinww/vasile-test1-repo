@@ -3,7 +3,7 @@ public class EX16 {
 
         int[] numere = {15, 28, 42, 73, 90};
 
-        // 2. Aflăm lungimea
+        //Aflăm lungimea
         int lungime = numere.length;
 
 
