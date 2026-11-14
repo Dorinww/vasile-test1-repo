@@ -1,2 +1,11 @@
 public class EX1 {
+    static void main() {
+
+
+        System.out.println(-6 + 8 * 6);
+        System.out.println((44 + 8) % 5);
+        System.out.println(19 +- 3 * 2 / 8);
+        System.out.println(5 + 20/3 * 2 - 8 % 4 );
+
+    }
 }
